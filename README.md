@@ -39,3 +39,37 @@ for (var layer, i = 0; layer = layers[i]; i++) {
   })
 }
 ```
+
+# 文件
+
+## CSS 相关
+
+CSS定位
+
+## js相关
+
+一个plaxify.js库
+
+## images相关
+
+github-404页面相关资源图片
+
+
+# 示例效果
+
+废话少说，先看效果如图所示:
+
+![res.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ade41f5f91544fdea16cabd9e3fd9e1d~tplv-k3u1fbpfcp-watermark.image?)
+
+# 重要代码
+
+plaxify.js是整个页面的核心，它封装了移动功能，函数使用说明如下：
+
+```
+// HTMLDomElement 需要这个效果的dom元素
+window.plaxify(HTMLDomElement, {
+  xRange: Number, // x轴移动的最大范围
+  yRange: Number, // y轴移动的最大范围
+  invert: Boolean // 是否与鼠标移动方向相反
+})
+```
