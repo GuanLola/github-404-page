@@ -59,7 +59,7 @@ github-404页面相关资源图片
 
 废话少说，先看效果如图所示:
 
-![res.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ade41f5f91544fdea16cabd9e3fd9e1d~tplv-k3u1fbpfcp-watermark.image?)
+![res.gif](./static/result-imgs/res.gif)
 
 # 重要代码
 
